@@ -1,15 +1,17 @@
-.cleanfont  {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 img.main  {
     float: left;
 }
 
+.center  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .column  {
-    width: 400px;
-    float: left;
-    padding: 10px;
+    width: 100%;
+    padding: 15px;
     background-color: sandybrown;
 }
 
