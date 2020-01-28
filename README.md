@@ -1,6 +1,6 @@
 # _Portoflio_
 
-#### _A simple webpage to designed to showcase projects completed in Epicodus, January 28, 20120_
+#### _A simple webpage completed for my first independant project at Epicodus, January 28, 20120_
 
 #### By _**Luke Trimble**_
 
@@ -10,23 +10,23 @@ _This simple webpage is designed to showcase projects completed in the first thr
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
-*_MARKDOWN_
-*_Bootstrap_
+* _HTML_
+* _CSS_
+* _MARKDOWN_
+* _Bootstrap_
 
-## Setup/Installation Requirements
+## Setup
 
 * _Clone this repository._
 * _Open the HTML file in a browser_
 
 ## Known Bugs
 
-*_No known bugs_
+* _No known bugs_
 
 ## Support and contact details
 
-_email support 
+_Email support at imnotgivingoutmypersonalemail@luketrimble.com_
 
 ## Legal
 
